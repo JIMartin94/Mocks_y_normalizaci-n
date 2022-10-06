@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Notebook Asus",
+    "price": 350000,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GBt2XtGUAJTi_TBj5ZOngkY6ZjrqMUl5ag&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "title": "Monitor LG",
+    "price": 60000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_748692-MLA50510766441_062022-F.webp"
+  },
+  {
+    "id": 3,
+    "title": "teclado Logitech",
+    "price": 12000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_979391-MLA50111675848_052022-O.webp"
+  },
+  {
+    "id": 4,
+    "title": "led 32 pulgadas",
+    "price": 32000,
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSHevvYYuB84imZcsxDqK0IjK2c0dE1v6zL4MHWieh2xB_Y4odcoM9-VNgwb2IY6SSvbLzHbD1ybQ&usqp=CAc"
+  },
+  {
+    "id": 5,
+    "title": "parlante tonet & vander",
+    "price": 12000,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsZaODDI3s_on8mGiCzxuSCNWStP9mTc8RQ&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "title": "zapatillas nike",
+    "price": 28000,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlvxat8orlE4fXYfoU3CMM1wcvBfvpHAlpvw&usqp=CAU"
+  },
+  {
+    "id": 7,
+    "title": "coca cola",
+    "price": "200",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMHpRnNLCL1iRZN_p9Wi9phQTOt0ek60PwYw&usqp=CAU"
+  }
+]

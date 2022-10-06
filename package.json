@@ -1,0 +1,23 @@
+{
+  "name": "4---api-restful",
+  "version": "0.0.0",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^2.6.2",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "normalizr": "^3.6.2",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.5.0"
+  }
+}

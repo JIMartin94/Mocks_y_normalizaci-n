@@ -1,0 +1,75 @@
+body {
+  padding: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #343A40;
+  color: white;
+}
+
+
+
+input[type=number]::-webkit-inner-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+table{
+  background-color: white;
+  border-radius: 10px;
+}
+
+h2{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 60px;
+}
+
+#formp div{
+  width: 50%;
+}
+
+#messages{
+  height: 300px;
+	width: 100%;
+	border: 1px solid #ddd;
+	background: #f1f1f1;
+	overflow-y: scroll;
+  padding:4px;
+  color: black;
+}
+
+.centroMsj{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 60px;
+  
+  
+}
+
+.centroMsj form{
+  width: 50%;
+}
+
+.btn-success{
+  width: 100%;
+}
+
+#tautor{
+  color: blue;
+}
+
+#ttexto{
+  color: green;
+  font-family: italic;
+}
+
+#tfecha{
+  color: brown;
+}
+
